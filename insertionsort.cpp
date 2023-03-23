@@ -72,7 +72,7 @@ void display() {			// Procedure Display
 
 int main()
 {
-	input();				// memanggil input
+	input();				// memanggil inputan
 	insertionsort();		// memanggil insertionsort
 	display();				// memanggil display
 }
